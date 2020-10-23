@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
-  spec.name = 'ReactJM'
-  spec.version = '0.58.6-alpha'
+  spec.name = 'React'
+  spec.version = '0.58.6'
   spec.license = { :type => 'MIT' }
   spec.homepage = 'https://github.com/JimiPlatform/React'
   spec.summary = 'React for iOS ReactNative'

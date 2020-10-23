@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name = 'ReactJM'
+  spec.name = 'React'
   spec.version = '0.58.6-pre'
   spec.license = { :type => 'MIT' }
   spec.homepage = 'https://github.com/JimiPlatform/React'

@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = 'ReactJM'
-  spec.version = '0.58.6-pre2'
+  spec.version = '0.58.6-alpha'
   spec.license = { :type => 'MIT' }
   spec.homepage = 'https://github.com/JimiPlatform/React'
   spec.summary = 'React for iOS ReactNative'
@@ -18,10 +18,6 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = 'React.framework'
   spec.module_name = 'React'
   
-  spec.subspec "React" do |ss|
-    spec.ios.vendored_frameworks = 'React.framework'
-  end
-
 end
 
 
